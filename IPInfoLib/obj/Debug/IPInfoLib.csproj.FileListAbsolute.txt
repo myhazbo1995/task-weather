@@ -1,0 +1,7 @@
+F:\inetpub\wwwroot\task-weather\IPInfoLib\bin\Debug\IPInfoLib.dll
+F:\inetpub\wwwroot\task-weather\IPInfoLib\bin\Debug\IPInfoLib.pdb
+F:\inetpub\wwwroot\task-weather\IPInfoLib\obj\Debug\IPInfoLib.csprojResolveAssemblyReference.cache
+F:\inetpub\wwwroot\task-weather\IPInfoLib\obj\Debug\IPInfoLib.dll
+F:\inetpub\wwwroot\task-weather\IPInfoLib\obj\Debug\IPInfoLib.pdb
+F:\inetpub\wwwroot\task-weather\IPInfoLib\bin\Debug\Newtonsoft.Json.dll
+F:\inetpub\wwwroot\task-weather\IPInfoLib\bin\Debug\Newtonsoft.Json.xml
